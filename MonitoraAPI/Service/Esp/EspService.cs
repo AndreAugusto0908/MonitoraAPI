@@ -34,6 +34,7 @@ public class EspService : IEspService
 
     public async Task<Result<List<EspEntity>>> GetEsps()
     {
+        
         List<EspEntity> espList = await _espRepository.GetAll();
         return Result<List<EspEntity>>.Success(espList);
     }

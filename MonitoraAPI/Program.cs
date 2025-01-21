@@ -8,7 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Adiciona serviços ao container
 builder.Services.AddControllersWithViews();
 builder.Services.AddControllers();
-
 // Configuração do Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
