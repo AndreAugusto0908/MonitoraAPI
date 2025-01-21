@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f/3STSZ/2bnTxjNEgXQ9QbyyaQQc/YYY+n2rdDlDrxE=",
+  "Source": "MonitoraAPI",
+  "BasePath": "_content/MonitoraAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
