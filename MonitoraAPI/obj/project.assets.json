@@ -5355,11 +5355,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\400071\\Desktop\\MonitoraAPI\\MonitoraAPI\\MonitoraAPI.csproj",
+      "projectUniqueName": "C:\\Temp\\MonitoraAPI\\MonitoraAPI\\MonitoraAPI.csproj",
       "projectName": "MonitoraAPI",
-      "projectPath": "C:\\Users\\400071\\Desktop\\MonitoraAPI\\MonitoraAPI\\MonitoraAPI.csproj",
+      "projectPath": "C:\\Temp\\MonitoraAPI\\MonitoraAPI\\MonitoraAPI.csproj",
       "packagesPath": "C:\\Users\\400071\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\400071\\Desktop\\MonitoraAPI\\MonitoraAPI\\obj\\",
+      "outputPath": "C:\\Temp\\MonitoraAPI\\MonitoraAPI\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [

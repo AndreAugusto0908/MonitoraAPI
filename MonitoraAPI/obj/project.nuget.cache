@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AMYBtGKzzXY=",
+  "dgSpecHash": "slRvvZ5VsqM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\400071\\Desktop\\MonitoraAPI\\MonitoraAPI\\MonitoraAPI.csproj",
+  "projectFilePath": "C:\\Temp\\MonitoraAPI\\MonitoraAPI\\MonitoraAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\400071\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\400071\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
